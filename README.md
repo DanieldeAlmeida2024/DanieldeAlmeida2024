@@ -6,7 +6,7 @@
 
 
 <div align="center" >
-
+#
 - 🌱 Atualmente estudando Engenharia de Software
 
   ![Status do meu perfil](https://github-readme-stats.vercel.app/api?username=DanieldeAlmeida2024&show_icons=true&theme=tokyonight)
