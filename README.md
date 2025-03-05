@@ -12,6 +12,6 @@
   ![Status do meu perfil](https://github-readme-stats.vercel.app/api?username=DanieldeAlmeida2024&show_icons=true&theme=tokyonight)
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeAlmeida2024&layout=compact&theme=tokyonight)
   
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=COLOCAR O REPOSITORIO AQUI)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Dio.Bootcamp.BancoPan](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
