@@ -6,12 +6,23 @@
 
 - 🌱 Atualmente estudando Engenharia de Software
 
-<div align="center" >
+<div align="left" >
 
 
   ![Status do meu perfil](https://github-readme-stats.vercel.app/api?username=DanieldeAlmeida2024&show_icons=true&theme=tokyonight)
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeAlmeida2024&layout=compact&theme=tokyonight)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Dio.Bootcamp.BancoPan](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+
+## Alguns repositórios
+
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=banco-de-dados)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=API.Informacoes.Espaciais)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Sistema-de-rastreamento-de-veiculos---Curso-Full-Cycle-2.0-)
+
+  
+
+
+   
+   
+
