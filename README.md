@@ -1,4 +1,4 @@
-## Olá, eu sou Daniel de Almeida 👋
+## Olá, eu sou o Daniel 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniboyreal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-de-almeida-b498531b2)
@@ -13,7 +13,7 @@
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeAlmeida2024&layout=compact&theme=tokyonight)
   
 </div>
-
+<!--
 ## Alguns repositórios
 #### Sistema para estudos de banco de dados
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=banco-de-dados)
@@ -21,8 +21,7 @@
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=API.Informacoes.Espaciais)
 #### Sistema de rastreamento de veículos e GPS
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Sistema-de-rastreamento-de-veiculos---Curso-Full-Cycle-2.0-)
-
-  
+  -->
 
 
    
