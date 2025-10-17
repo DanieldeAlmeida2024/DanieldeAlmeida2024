@@ -13,7 +13,9 @@
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeAlmeida2024&layout=compact&theme=tokyonight)
   
 </div>
-<!--
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Alguns repositórios
 #### Sistema para estudos de banco de dados
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=banco-de-dados)
@@ -21,7 +23,7 @@
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=API.Informacoes.Espaciais)
 #### Sistema de rastreamento de veículos e GPS
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Sistema-de-rastreamento-de-veiculos---Curso-Full-Cycle-2.0-)
-  -->
+
 
 
    
