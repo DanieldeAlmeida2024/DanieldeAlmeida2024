@@ -14,8 +14,14 @@
   
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div>
+  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url">
+    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Selo de conclusão AWS Re/Start" width="15%">
+  </a>
+</div>
 
+
+<!--
 ## Alguns repositórios
 #### Sistema para estudos de banco de dados
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=banco-de-dados)
