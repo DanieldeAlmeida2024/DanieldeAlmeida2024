@@ -15,10 +15,12 @@
   
 </div>
 
-<div>
-  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url">
-    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Selo de conclusão AWS Re/Start" width="15%">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Selo AWS Certified Cloud Practitioner" width="15%">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" style="text-decoration: none;">
+    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Selo de conclusão AWS Re/Start" style="width: 150px; height: 150px; object-fit: contain; border: none;">
+  </a>
+  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" style="text-decoration: none;">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Selo AWS Certified Cloud Practitioner" style="width: 150px; height: 150px; object-fit: contain; border: none;">
   </a>
 </div>
 
