@@ -1,3 +1,34 @@
+# Daniel de Almeida — Engenharia de Software
+
+Desenvolvimento de software com foco em back-end, aplicações web e integração de sistemas. Este perfil reúne projetos próprios, protótipos, laboratórios e exercícios de formação acadêmica.
+
+## Projetos em destaque
+
+- [FoodBridge — API Kotlin](https://github.com/DanieldeAlmeida2024/FoodBridge-API-Kotlin): backend em Kotlin/Spring Boot e PostgreSQL, com autenticação e organizações.
+- [FoodBridge — frontend](https://github.com/DanieldeAlmeida2024/Foodbridge-Frontend-React): interface React/Vite do ecossistema FoodBridge.
+- [Panini Cards Check](https://github.com/DanieldeAlmeida2024/Panini-Cards-Check): aplicativo web de controle de coleção, com dados locais.
+- [Modulock](https://github.com/DanieldeAlmeida2024/Modulock): projeto experimental ESP32 e RFID, ainda sujeito a validação de segurança.
+- [AnimeDex](https://github.com/DanieldeAlmeida2024/AnimeDex): laboratório de integrações Stremio/Supabase.
+
+Também desenvolvo **Chronicle**, projeto privado de simulação RPG persistente; detalhes técnicos podem ser apresentados sem divulgar o repositório ou segredos.
+
+## Competências representadas nos repositórios
+
+Kotlin, Java, Python, TypeScript, React, Node.js, PostgreSQL, GitHub Actions, Docker e desenho de APIs. Tecnologias variam conforme o projeto; o uso em um repositório não comprova experiência profissional em produção.
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/daniel-de-almeida-b498531b2) · [E-mail](mailto:danieldealmeidadev@outlook.com)
+
+## Como navegar pelo portfólio
+
+Consulte `docs/REQUISITOS.md` e `docs/ARQUITETURA.md` para uma visão de categorias, `docs/UML.puml` para mapa conceitual e `AGENTS.md` para convenções de manutenção. Os READMEs individuais contêm requisitos e limitações mais importantes que este índice.
+
+---
+
+<details>
+<summary>Conteúdo anterior do perfil (certificados e imagens)</summary>
+
 ## Olá, eu sou o Daniel 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-de-almeida-b498531b2)
@@ -33,8 +64,4 @@
 #### Sistema de rastreamento de veículos e GPS
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Sistema-de-rastreamento-de-veiculos---Curso-Full-Cycle-2.0-)
 
-
-
-   
-   
-
+</details>
