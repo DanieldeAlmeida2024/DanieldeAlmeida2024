@@ -1,0 +1,13 @@
+@startuml
+actor Mantenedor
+participant "README.md" as R
+participant "PR / GitHub review" as PR
+participant "main" as Main
+participant "Perfil GitHub" as Profile
+Mantenedor -> R : editar conteúdo e links
+R -> PR : criar PR + validação visual
+PR -> PR : verificar badges, imagens e URLs
+PR -> Main : squash merge aprovado
+Main -> Profile : renderizar README
+Profile --> Mantenedor : checagem desktop/mobile
+@enduml

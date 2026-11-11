@@ -140,3 +140,11 @@ Uma landing page visual, com foco em apresentação de conteúdo, imagens e expe
 <sub>O perfil está sempre mudando — assim como os projetos.</sub>
 
 </div>
+
+---
+
+<details><summary><b>📐 Documentação e critérios de manutenção</b></summary>
+
+[Projeto](docs/projeto/ESPECIFICACAO.md) · [UML](docs/uml/README.md) · [Testes](docs/testes/PLANO_DE_TESTES.md) · [Versões](docs/controle/VERSIONAMENTO.md)
+
+</details>
