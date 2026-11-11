@@ -1,67 +1,142 @@
-# Daniel de Almeida — Engenharia de Software
+<div align="center">
 
-Desenvolvimento de software com foco em back-end, aplicações web e integração de sistemas. Este perfil reúne projetos próprios, protótipos, laboratórios e exercícios de formação acadêmica.
+<img width="100%" alt="Daniel de Almeida — desenvolvimento de software" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0B1020,48:123A55,100:087F8C&text=Daniel%20de%20Almeida&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Back-end%20%7C%20Web%20%7C%20Cloud&descAlignY=61&descSize=19&animation=fadeIn" />
 
-## Projetos em destaque
+<a href="https://linkedin.com/in/daniel-de-almeida-b498531b2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:danieldealmeidadev@outlook.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-Me%20chama-334155?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://github.com/DanieldeAlmeida2024?tab=repositories"><img alt="Meus repositórios" src="https://img.shields.io/badge/GitHub-Ver%20projetos-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-- [FoodBridge — API Kotlin](https://github.com/DanieldeAlmeida2024/FoodBridge-API-Kotlin): backend em Kotlin/Spring Boot e PostgreSQL, com autenticação e organizações.
-- [FoodBridge — frontend](https://github.com/DanieldeAlmeida2024/Foodbridge-Frontend-React): interface React/Vite do ecossistema FoodBridge.
-- [Panini Cards Check](https://github.com/DanieldeAlmeida2024/Panini-Cards-Check): aplicativo web de controle de coleção, com dados locais.
-- [Modulock](https://github.com/DanieldeAlmeida2024/Modulock): projeto experimental ESP32 e RFID, ainda sujeito a validação de segurança.
-- [AnimeDex](https://github.com/DanieldeAlmeida2024/AnimeDex): laboratório de integrações Stremio/Supabase.
+<img alt="Back-end, aplicações web, integração e cloud" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2900&pause=1250&color=67E8F9&center=true&vCenter=true&multiline=false&width=690&height=55&lines=Back-end%2C+web+e+integracoes;Java%2C+Python+e+TypeScript;Gosto+de+tirar+ideias+do+papel" />
 
-Também desenvolvo **Chronicle**, projeto privado de simulação RPG persistente; detalhes técnicos podem ser apresentados sem divulgar o repositório ou segredos.
+</div>
 
-## Competências representadas nos repositórios
+## Fala! 👋
 
-Kotlin, Java, Python, TypeScript, React, Node.js, PostgreSQL, GitHub Actions, Docker e desenho de APIs. Tecnologias variam conforme o projeto; o uso em um repositório não comprova experiência profissional em produção.
+Sou o Daniel, estudante de **Engenharia de Software**. Gosto de pegar uma ideia, montar a primeira versão e ir resolvendo os problemas que aparecem pelo caminho — seja numa API, numa interface ou até num ESP32.
 
-## Contato
+Aqui tem de tudo um pouco: projetos autorais, experimentos e exercícios que fiz para aprender. Alguns já têm uma aplicação navegável; outros ainda estão em desenvolvimento. Prefiro mostrar o processo e o código do que fingir que está tudo pronto.
 
-[LinkedIn](https://linkedin.com/in/daniel-de-almeida-b498531b2) · [E-mail](mailto:danieldealmeidadev@outlook.com)
+## ☁️ AWS — uma parte importante da minha formação
 
-## Como navegar pelo portfólio
+Tenho estudado fundamentos de computação em nuvem, serviços AWS e a parte prática de colocar aplicações no ar. **Cloud Foundations** faz parte dessa trilha, e fiz questão de manter os selos que já estavam no meu perfil em destaque.
 
-Consulte `docs/REQUISITOS.md` e `docs/ARQUITETURA.md` para uma visão de categorias, `docs/UML.puml` para mapa conceitual e `AGENTS.md` para convenções de manutenção. Os READMEs individuais contêm requisitos e limitações mais importantes que este índice.
+<div align="center">
+  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="Ver badge AWS no Credly">
+    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Badge AWS re/Start presente no perfil original" width="142" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="Ver badge AWS no Credly">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Badge AWS Cloud Practitioner presente no perfil original" width="142" />
+  </a>
+</div>
+
+<p align="center"><sub>Selos e link de verificação preservados do meu README anterior.</sub></p>
+
+## 🛠️ O que eu uso nos projetos
+
+<div align="center">
+  <img alt="Java, Kotlin, Python, TypeScript, React, Next.js, Node.js, PostgreSQL, Docker, AWS, Git e GitHub" src="https://skillicons.dev/icons?i=java,kotlin,py,ts,react,nextjs,nodejs,postgres,docker,aws,git,github&perline=6&theme=dark" />
+</div>
+
+Não uso todas essas tecnologias no mesmo projeto. Gosto especialmente de **back-end, bancos de dados, APIs e integrações**, mas também curto cuidar da parte visual quando faz sentido.
+
+## 🚀 Projetos para conhecer
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ FoodBridge
+
+Uma ideia para aproximar quem tem alimentos para doar de organizações que precisam deles. Tem autenticação, cadastro de organizações e interface web.
+
+**Kotlin · Spring Boot · PostgreSQL · React**
+
+[Ver API](https://github.com/DanieldeAlmeida2024/FoodBridge-API-Kotlin) · [Ver frontend](https://github.com/DanieldeAlmeida2024/Foodbridge-Frontend-React)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ Panini Cards Check
+
+Uma aplicação simples de usar: marcar as figurinhas que você já tem, conferir as que faltam e controlar repetidas no navegador.
+
+**Vite · TypeScript · Python**
+
+[Explorar o projeto](https://github.com/DanieldeAlmeida2024/Panini-Cards-Check)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Modulock
+
+Meu experimento com controle de acesso físico: ESP32, leitor RFID e uma interface de administração. Ainda precisa de validação de segurança no hardware antes de qualquer uso real.
+
+**C++ · ESP32 · RFID · PlatformIO**
+
+[Ver o código](https://github.com/DanieldeAlmeida2024/Modulock)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ Casa Conceito Marista
+
+Uma landing page visual, com foco em apresentação de conteúdo, imagens e experiência de navegação.
+
+**HTML · CSS · JavaScript**
+
+[Explorar o site](https://github.com/DanieldeAlmeida2024/casaconceitomarista)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 Mais coisas que ando construindo e estudando</b></summary>
+
+- **Chronicle:** um RPG de mundo persistente, com simulação, regras de servidor e integrações. O código está em repositório privado.
+- **[AnimeDex](https://github.com/DanieldeAlmeida2024/AnimeDex):** testes com addons, metadados e integrações usando Supabase.
+- **[Simulador de veículos](https://github.com/DanieldeAlmeida2024/golang-simulator):** estudo de rotas e eventos com Go, Kafka e MongoDB.
+- **[Laboratório de banco de dados](https://github.com/DanieldeAlmeida2024/banco-de-dados):** prática de persistência e CRUD em Python.
+- **[Todos os repositórios](https://github.com/DanieldeAlmeida2024?tab=repositories):** incluindo exercícios de Java, Python e automação de testes.
+
+</details>
+
+## 📈 Um pouco da minha atividade por aqui
+
+<div align="center">
+
+<a href="https://github.com/DanieldeAlmeida2024">
+  <img height="170" alt="Estatísticas públicas do GitHub" src="https://github-readme-stats.vercel.app/api?username=DanieldeAlmeida2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/DanieldeAlmeida2024?tab=repositories">
+  <img height="170" alt="Linguagens encontradas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeAlmeida2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" />
+</a>
+
+<img alt="Gráfico de contribuições recentes" width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanieldeAlmeida2024&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+<details>
+<summary><b>📚 O que eu estou estudando agora</b></summary>
+
+- Arquitetura de software, separação de responsabilidades e testes automatizados.
+- Java, Python e desenvolvimento de APIs.
+- Cloud, deploy, bancos de dados e observabilidade.
+- Integrações entre aplicações, serviços e dispositivos.
+
+</details>
 
 ---
 
-<details>
-<summary>Conteúdo anterior do perfil (certificados e imagens)</summary>
+<div align="center">
 
-## Olá, eu sou o Daniel 👋
+**Quer conversar sobre código ou algum projeto?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-de-almeida-b498531b2)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:danieldealmeidadev@outlook.com)
+[LinkedIn](https://linkedin.com/in/daniel-de-almeida-b498531b2) · [E-mail](mailto:danieldealmeidadev@outlook.com) · [Repositórios](https://github.com/DanieldeAlmeida2024?tab=repositories)
 
-- Atualmente estudando Engenharia de Software
-- AWS Cloud Pratictioner
+<sub>O perfil está sempre mudando — assim como os projetos.</sub>
 
-<div align="left" >
-
-
-  ![Status do meu perfil](https://github-readme-stats.vercel.app/api?username=DanieldeAlmeida2024&show_icons=true&theme=tokyonight)
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeAlmeida2024&layout=compact&theme=tokyonight)
-  
 </div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" style="text-decoration: none;">
-    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Selo de conclusão AWS Re/Start" style="width: 150px; height: 150px; object-fit: contain; border: none;">
-  </a>
-  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" style="text-decoration: none;">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Selo AWS Certified Cloud Practitioner" style="width: 150px; height: 150px; object-fit: contain; border: none;">
-  </a>
-</div>
-
-
-<!--
-## Alguns repositórios
-#### Sistema para estudos de banco de dados
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=banco-de-dados)
-#### API para busca de informações espaciais 
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=API.Informacoes.Espaciais)
-#### Sistema de rastreamento de veículos e GPS
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanieldeAlmeida2024&repo=Sistema-de-rastreamento-de-veiculos---Curso-Full-Cycle-2.0-)
-
-</details>
