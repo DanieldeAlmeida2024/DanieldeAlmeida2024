@@ -21,21 +21,15 @@ Aqui tem de tudo um pouco: projetos autorais, experimentos e exercícios que fiz
 <div align="center">
   <img src="./assets/aws-cloud-banner.svg" width="100%" alt="AWS / Cloud — Cloud Foundations e re/Start" />
 
-  <p>
-    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/twitter_thumb_201604_image.png" width="178" alt="Badge AWS Academy Cloud Foundations" />
-  </p>
-  <h3>AWS Academy · Cloud Foundations</h3>
-  <p><sub>Arquitetura em nuvem · Redes · Segurança · Serviços AWS</sub></p>
-
-  <p>&nbsp;</p>
-
-  <p>
+  <p align="center">
+    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/twitter_thumb_201604_image.png" width="160" alt="Badge AWS Academy Cloud Foundations" />
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="AWS re/Start Graduate — Credly">
-      <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="126" alt="Badge AWS re/Start Graduate" />
+      <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="160" alt="Badge AWS re/Start Graduate" />
     </a>
   </p>
-  <p><strong>AWS re/Start · Graduate</strong></p>
-  <p><sub>Fundamentos de TI · Prática em cloud computing</sub></p>
+  <p align="center"><strong>AWS Academy · Cloud Foundations</strong> &nbsp; | &nbsp; <strong>AWS re/Start · Graduate</strong></p>
+  <p align="center"><sub>Fundamentos de nuvem, arquitetura AWS, redes e segurança</sub></p>
 </div>
 
 ## 🛠️ O que eu uso nos projetos
