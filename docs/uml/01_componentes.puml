@@ -1,0 +1,17 @@
+@startuml
+actor Visitante
+node "Perfil GitHub" as Github
+file "README.md" as Readme
+component "Certificados AWS / Credly" as Credly
+component "Cards de projetos" as Projects
+cloud "capsule-render / typing-svg" as Header
+cloud "Skill Icons" as Icons
+cloud "Readme Stats / Activity Graph" as Stats
+Visitante --> Github
+Github --> Readme
+Readme --> Credly
+Readme --> Projects
+Readme --> Header
+Readme --> Icons
+Readme --> Stats
+@enduml
