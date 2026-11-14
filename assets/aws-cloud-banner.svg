@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+  <title id="title">Formação AWS e Cloud Computing</title>
+  <desc id="desc">Banner escuro com detalhes em azul e âmbar, destacando AWS Academy Cloud Foundations e AWS re/Start.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset=".58" stop-color="#102C40"/>
+      <stop offset="1" stop-color="#0D4147"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB44D"/>
+      <stop offset="1" stop-color="#4ED3D3"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#B5E1E3" opacity=".15"/>
+    </pattern>
+  </defs>
+  <rect width="1100" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1098" height="218" rx="17" fill="none" stroke="#547789" opacity=".38"/>
+  <rect x="660" width="440" height="220" fill="url(#dots)"/>
+  <rect x="54" y="44" width="34" height="4" rx="2" fill="#FFB44D"/>
+  <text x="99" y="50" fill="#8BDAE4" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" letter-spacing="4">AWS / CLOUD</text>
+  <text x="54" y="117" fill="#FAFCFF" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="43">Formação em nuvem</text>
+  <text x="56" y="155" fill="#B6CFD9" font-family="Arial, Helvetica, sans-serif" font-size="18">Cloud Foundations  •  AWS re/Start</text>
+  <rect x="54" y="181" width="512" height="3" rx="2" fill="url(#line)" opacity=".95"/>
+  <circle cx="876" cy="109" r="75" fill="none" stroke="#5BBFC4" stroke-width="1.5" opacity=".32"/>
+  <circle cx="876" cy="109" r="56" fill="none" stroke="#FFB44D" stroke-width="2" opacity=".5"/>
+  <circle cx="876" cy="109" r="35" fill="#14394A" stroke="#6AD7DB" stroke-width="2"/>
+  <path d="M864 116h26a13 13 0 0 0 1-26 19 19 0 0 0-34 2 12 12 0 0 0 7 24z" fill="none" stroke="#F8FAFC" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M817 93l-25-16m77-24 0-17m55 64 27-12m-26 54 20 19m-91-6-22 22" stroke="#72D3DB" stroke-width="2" opacity=".62"/>
+  <circle cx="792" cy="77" r="4" fill="#FFB44D"/>
+  <circle cx="869" cy="36" r="4" fill="#72D3DB"/>
+  <circle cx="951" cy="88" r="4" fill="#FFB44D"/>
+  <circle cx="945" cy="161" r="4" fill="#72D3DB"/>
+  <circle cx="832" cy="177" r="4" fill="#FFB44D"/>
+</svg>
