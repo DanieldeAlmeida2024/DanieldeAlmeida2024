@@ -16,17 +16,26 @@ Sou o Daniel, estudante de **Engenharia de Software**. Gosto de pegar uma ideia,
 
 Aqui tem de tudo um pouco: projetos autorais, experimentos e exercícios que fiz para aprender. Alguns já têm uma aplicação navegável; outros ainda estão em desenvolvimento. Prefiro mostrar o processo e o código do que fingir que está tudo pronto.
 
-## ☁️ AWS — uma parte importante da minha formação
+## ☁️ AWS & Cloud
 
-Estudo fundamentos de computação em nuvem e **AWS Cloud Foundations**. Diferencio cursos e trilhas de estudo de certificações com verificação independente.
+Minha formação em cloud começou com a **AWS Academy Cloud Foundations** e ganhou prática com o **AWS re/Start**. São experiências que levo para meus projetos com APIs, bancos de dados e infraestrutura.
 
-<div align="center">
-  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="Conferir credencial no Credly">
-    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Credencial AWS — conferir identificação no Credly" width="142" />
-  </a>
-</div>
-
-<sub>Um badge, um link de verificação. Outras credenciais serão adicionadas somente com links próprios; a imagem não substitui a verificação de autenticidade.</sub>
+<table>
+  <tr>
+    <td align="center" width="64%" valign="middle">
+      <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/twitter_thumb_201604_image.png" width="190" alt="AWS Academy — Cloud Foundations" />
+      <h3>AWS Academy · Cloud Foundations</h3>
+      <p>Fundamentos de arquitetura em nuvem, serviços AWS, redes, segurança e custos.</p>
+    </td>
+    <td align="center" width="36%" valign="middle">
+      <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url">
+        <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="115" alt="AWS re/Start — Graduate" />
+      </a>
+      <h4>AWS re/Start</h4>
+      <p>Formação prática em tecnologia e computação em nuvem.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ O que eu uso nos projetos
 
