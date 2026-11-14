@@ -18,19 +18,15 @@ Aqui tem de tudo um pouco: projetos autorais, experimentos e exercícios que fiz
 
 ## ☁️ AWS — uma parte importante da minha formação
 
-Tenho estudado fundamentos de computação em nuvem, serviços AWS e a parte prática de colocar aplicações no ar. **Cloud Foundations** faz parte dessa trilha, e fiz questão de manter os selos que já estavam no meu perfil em destaque.
+Estudo fundamentos de computação em nuvem e **AWS Cloud Foundations**. Diferencio cursos e trilhas de estudo de certificações com verificação independente.
 
 <div align="center">
-  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="Ver badge AWS no Credly">
-    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Badge AWS re/Start presente no perfil original" width="142" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="Ver badge AWS no Credly">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Badge AWS Cloud Practitioner presente no perfil original" width="142" />
+  <a href="https://www.credly.com/badges/ea1dfbd5-b0f8-41c7-9c4c-20c150d6cdd9/public_url" title="Conferir credencial no Credly">
+    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Credencial AWS — conferir identificação no Credly" width="142" />
   </a>
 </div>
 
-<p align="center"><sub>Selos e link de verificação preservados do meu README anterior.</sub></p>
+<sub>Um badge, um link de verificação. Outras credenciais serão adicionadas somente com links próprios; a imagem não substitui a verificação de autenticidade.</sub>
 
 ## 🛠️ O que eu uso nos projetos
 
