@@ -81,13 +81,13 @@ Meu experimento com controle de acesso físico: ESP32, leitor RFID e uma interfa
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ Casa Conceito Marista
+### 🚚 Rastreamento de Veículos · Full Cycle
 
-Uma landing page visual, com foco em apresentação de conteúdo, imagens e experiência de navegação.
+Sistema distribuído de rastreamento: interface web, API de rotas, simulação de deslocamentos e troca de eventos via Kafka. Os módulos são organizados em repositórios conectados por Git submodules e Docker Compose.
 
-**HTML · CSS · JavaScript**
+**Go · NestJS · Next.js · Kafka · MongoDB**
 
-[Explorar o site](https://github.com/DanieldeAlmeida2024/casaconceitomarista)
+[Ver o sistema completo](https://github.com/DanieldeAlmeida2024/Sistema-de-rastreamento-de-veiculos---Curso-Full-Cycle-2.0-)
 
 </td>
 </tr>
@@ -98,7 +98,6 @@ Uma landing page visual, com foco em apresentação de conteúdo, imagens e expe
 
 - **Chronicle:** um RPG de mundo persistente, com simulação, regras de servidor e integrações. O código está em repositório privado.
 - **[AnimeDex](https://github.com/DanieldeAlmeida2024/AnimeDex):** testes com addons, metadados e integrações usando Supabase.
-- **[Simulador de veículos](https://github.com/DanieldeAlmeida2024/golang-simulator):** estudo de rotas e eventos com Go, Kafka e MongoDB.
 - **[Laboratório de banco de dados](https://github.com/DanieldeAlmeida2024/banco-de-dados):** prática de persistência e CRUD em Python.
 - **[Todos os repositórios](https://github.com/DanieldeAlmeida2024?tab=repositories):** incluindo exercícios de Java, Python e automação de testes.
 
